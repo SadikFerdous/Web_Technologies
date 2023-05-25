@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    width: 1170px;
+    margin: auto;
+}
+header{
+    background: linear-gradient(rgba(49, 158, 225, 0.5),rgba(9, 32, 36, 0.386)),url(../images/back.jpg);
+    height: 100vh;
+    width: 212.85vh;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+.nav-area{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+.nav-area l{
+    display: inline-block;
+}
+.nav-area l a{
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: poppins;
+    font-size:14px;
+}
+.nav-area l a:hover{
+    background:#fff;
+    color: #333;
+}
+.logo img{
+    width: 200px;
+    float: left;
+    height: auto;
+}
+.welcome-text{
+    margin-top:25px;
+    position: absolute;
+    width: 600px;
+    height:300px;
+    text-align: center;
+}
+.welcome-text h1{
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.welcome-text h5{
+    text-align: center;
+    color: #fff;
+    font-size:15px;
+}
+.welcome-text a{
+    border : 1px solid #fff;
+    padding: 10px 25px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    display : inline-block;
+    color: #fff;
+}
+.welcome-text a:hover{
+    background: #fff;
+    color: #333;  
+}
+
+.footer{
+    color:white;
+    padding-top:10%;
+    padding-left:7%;
+}
+
+li{
+    border: 1px solid rgb(94, 144, 188);
+    background-color: white;
+    text-align: center;
+    height: 130px;
+    width: 150px;
+    color: black;
+}
+
+p{
+    color: rgba(18, 22, 26, 0.9);
+}
+
+h3{
+    border: 1px solid rgb(94, 144, 188);
+    background-color: rgb(94, 144, 188);
+}
+
+b{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
